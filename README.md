@@ -10,11 +10,18 @@
   <img src="https://komarev.com/ghpvc/?username=nz365guy&label=Profile%20Views&color=2E8B57&style=for-the-badge" height="28" alt="Profile Views">
 </p>
 
-<!-- GitHub Stats - Proper Horizontal Layout -->
+<!-- GitHub Contributions Box -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Stats-1.2K%20Commits%20|%2018%20Repos%20|%204%20Stars-2E8B57?style=for-the-badge" height="28" alt="GitHub Stats">
-  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nz365guy&theme=dark&hide_border=true&background=0d1117&stroke=2E8B57&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57" width="400" alt="GitHub Streak">
+</p>
+
+<!-- Stats aligned under contributions box -->
+<p align="center">
+  <img src="https://img.shields.io/badge/1.2K-Commits-2E8B57?style=flat-square" alt="Commits">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/18-Repositories-2E8B57?style=flat-square" alt="Repos">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/4-Stars-2E8B57?style=flat-square" alt="Stars">
 </p>
 
 <!-- Top Languages -->

@@ -33,12 +33,12 @@
 
 ## 🏆 Credentials & Achievements
 
-| Badge | Achievement | Since |
-|-------|-------------|-------|
-| ![Microsoft MVP](https://img.shields.io/badge/Microsoft%20MVP-AI%20Platform-2E8B57?style=for-the-badge&logo=microsoft) | Microsoft AI Platform MVP | 2012 |
-| ![Microsoft Certified Trainer](https://img.shields.io/badge/Microsoft%20Certified-Trainer-0078D4?style=for-the-badge&logo=microsoft) | Microsoft Certified Trainer | 15+ years |
-| ![Cloverbase](https://img.shields.io/badge/Cloverbase-Principal%20AI%20Strategist-FF6B6B?style=for-the-badge) | Principal AI Strategist | Co-Founder |
-| ![OpenClaw](https://img.shields.io/badge/OpenClaw-Orchestration%20Agent-8A2BE2?style=for-the-badge) | OpenClaw Core Contributor | 2025 |
+| Badge | Achievement |
+|-------|-------------|
+| ![Microsoft MVP](https://img.shields.io/badge/Microsoft%20MVP-AI%20Platform-2E8B57?style=for-the-badge&logo=microsoft) | Microsoft AI Platform MVP |
+| ![Microsoft Certified Trainer](https://img.shields.io/badge/Microsoft%20Certified-Trainer-0078D4?style=for-the-badge&logo=microsoft) | Microsoft Certified Trainer |
+| ![Cloverbase](https://img.shields.io/badge/Cloverbase-Principal%20AI%20Strategist-FF6B6B?style=for-the-badge) | Principal AI Strategist |
+| ![OpenClaw](https://img.shields.io/badge/OpenClaw-Orchestration%20Agent-8A2BE2?style=for-the-badge) | OpenClaw Core Contributor |
 
 ## 🛠️ Tech Stack & Expertise
 

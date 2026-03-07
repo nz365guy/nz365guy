@@ -50,11 +50,14 @@
 ![Copilot](https://img.shields.io/badge/Copilot-ee5091?style=flat-square&logo=microsoft&logoColor=white)
 ![Power Platform](https://img.shields.io/badge/Power%20Platform-159455?style=flat-square&logo=powerapps&logoColor=white)
 
-### **AI & Machine Learning**
+### **Artificial Intelligence**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-0A66C2?style=flat-square&logo=deepseek&logoColor=white)
+![Moonshot](https://img.shields.io/badge/Moonshot-FF6B35?style=flat-square&logo=moonshot&logoColor=white)
+![X AI](https://img.shields.io/badge/X%20AI-000000?style=flat-square&logo=x&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-7B68EE?style=flat-square&logo=openrouter&logoColor=white)
 
 ### **Development & DevOps**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)

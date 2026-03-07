@@ -55,7 +55,7 @@
 ![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-0A66C2?style=flat-square&logo=deepseek&logoColor=white)
-![Moonshot](https://img.shields.io/badge/Moonshot-FF6B35?style=flat-square&logo=moonshot&logoColor=white)
+![Moonshot](https://img.shields.io/badge/Moonshot-FF6B35?style=flat-square&logo=kimi&logoColor=white)
 ![X AI](https://img.shields.io/badge/X%20AI-000000?style=flat-square&logo=x&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-7B68EE?style=flat-square&logo=openrouter&logoColor=white)
 

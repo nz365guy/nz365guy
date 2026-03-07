@@ -46,9 +46,9 @@
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
 ![Microsoft Foundry](https://img.shields.io/badge/Microsoft%20Foundry-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-002050?style=flat-square&logo=microsoft-dynamics&logoColor=002050)
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-0B71C7?style=flat-square&logo=microsoft-dynamics&logoColor=white)
 ![Copilot](https://img.shields.io/badge/Copilot-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Power Platform](https://img.shields.io/badge/Power%20Platform-00A2ED?style=flat-square&logo=powerapps&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=flat-square&logo=powerapps&logoColor=white)
 
 ### **AI & Machine Learning**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)

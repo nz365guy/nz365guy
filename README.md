@@ -45,7 +45,7 @@
 ### **Microsoft Ecosystem**
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
-![Microsoft Foundry](https://img.shields.io/badge/Microsoft%20Foundry-26A48F?style=flat-square&logo=microsoft&logoColor=white)
+![Microsoft Foundry](https://img.shields.io/badge/Microsoft%20Foundry-68217a?style=flat-square&logo=microsoft&logoColor=white)
 ![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-5C3CE6?style=flat-square&logo=microsoft-dynamics&logoColor=white)
 ![Copilot](https://img.shields.io/badge/Copilot-ee5091?style=flat-square&logo=microsoft&logoColor=white)
 ![Power Platform](https://img.shields.io/badge/Power%20Platform-159455?style=flat-square&logo=powerapps&logoColor=white)

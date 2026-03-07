@@ -70,6 +70,7 @@
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-8A2BE2?style=flat-square&logo=github&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-FF6B6B?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-00C853?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG%20(Retrieval‑Augmented%20Generation)-FF9800?style=flat-square)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white)
 
 ## 📈 GitHub Activity

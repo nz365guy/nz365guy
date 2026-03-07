@@ -9,11 +9,11 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=nz365guy&label=Profile%20Views&color=2E8B57&style=flat-square)
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nz365guy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2E8B57&icon_color=2E8B57&text_color=ffffff)
+![GitHub Stats](https://img.shields.io/badge/Stats-1.2K%20Commits%20|%2018%20Repos%20|%204%20Stars-2E8B57?style=for-the-badge)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nz365guy&theme=dark&hide_border=true&background=0d1117&stroke=2E8B57&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57)
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nz365guy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2E8B57&text_color=ffffff)
+![Top Languages](https://img.shields.io/badge/Top%20Languages-Python%20|%20JavaScript%20|%20Node.js-2E8B57?style=for-the-badge)
 
 </div>
 

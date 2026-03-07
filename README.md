@@ -73,6 +73,19 @@
 ![RAG](https://img.shields.io/badge/RAG%20(Retrieval‑Augmented%20Generation)-FF9800?style=flat-square)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white)
 
+### **Prompt Engineering & AI Orchestration**
+<div align="center">
+
+**Engineering Disciplines**  
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-9C27B0?style=for-the-badge&logo=openai&logoColor=white)
+![Context Engineering](https://img.shields.io/badge/Context%20Engineering-2196F3?style=for-the-badge&logo=book&logoColor=white)
+![Intent Engineering](https://img.shields.io/badge/Intent%20Engineering-4CAF50?style=for-the-badge&logo=target&logoColor=white)
+
+![Specification Engineering](https://img.shields.io/badge/Specification%20Engineering-FF9800?style=for-the-badge&logo=file-document&logoColor=white)
+![Outcome Engineering](https://img.shields.io/badge/Outcome%20Engineering-F44336?style=for-the-badge&logo=chart-line&logoColor=white)
+
+</div>
+
 ## 📈 GitHub Activity
 
 <!-- GitHub Activity Graph -->

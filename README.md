@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Microsoft+AI+Platform+MVP;Principal+AI+Strategist+at+Cloverbase;OpenClaw+Orchestration+Specialist;Dyslexia+→+AI+Bridge+Builder)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Microsoft+Foundry+MVP;Principal+AI+Strategist+at+Cloverbase;OpenClaw+Orchestration+Specialist;Dyslexia+→+AI+Bridge+Builder)
 
 <!-- Visitor Counter - Larger -->
 <p align="center">
@@ -35,7 +35,7 @@
 
 | Badge | Achievement |
 |-------|-------------|
-| ![Microsoft MVP](https://img.shields.io/badge/Microsoft%20MVP-AI%20Platform-2E8B57?style=for-the-badge&logo=microsoft) | Microsoft AI Platform MVP |
+| ![Microsoft MVP](https://img.shields.io/badge/Microsoft%20MVP-Foundry-2E8B57?style=for-the-badge&logo=microsoft) | Microsoft Foundry MVP |
 | ![Microsoft Certified Trainer](https://img.shields.io/badge/Microsoft%20Certified-Trainer-0078D4?style=for-the-badge&logo=microsoft) | Microsoft Certified Trainer |
 | ![Cloverbase](https://img.shields.io/badge/Cloverbase-Principal%20AI%20Strategist-FF6B6B?style=for-the-badge) | Principal AI Strategist |
 | ![OpenClaw](https://img.shields.io/badge/OpenClaw-Orchestration%20Agent-8A2BE2?style=for-the-badge) | OpenClaw Core Contributor |

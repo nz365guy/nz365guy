@@ -88,17 +88,7 @@
 
 ## 🎯 Featured Projects
 
-### **OpenClaw Orchestration**
-> Enterprise-grade AI agent orchestration framework
-- **Role**: Core Contributor & Orchestration Specialist
-- **Tech**: Node.js, Systemd, Azure VMs, Telegram Integration
-- **Status**: Production deployment with automated maintenance
 
-### **Home Assistant Integration**
-> Smart home automation with AI agent integration
-- **Setup**: Local Home Assistant with OpenClaw bridge
-- **Automations**: Voice control, presence detection, energy monitoring
-- **Integration**: AI agents for proactive home management
 
 ### **Microsoft Copilot Adoption**
 > Co-author of "Microsoft 365 Copilot Adoption" with Meg Smith

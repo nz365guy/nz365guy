@@ -56,8 +56,8 @@
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-0A66C2?style=flat-square)
 ![Moonshot](https://img.shields.io/badge/Moonshot-FF6B35?style=flat-square)
-![X AI](https://img.shields.io/badge/X%20AI-000000?style=flat-square)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-7B68EE?style=flat-square)
+![X AI](https://img.shields.io/badge/X%20AI-000000?style=flat-square&logo=x&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-7B68EE?style=flat-square&logo=openrouter&logoColor=white)
 
 ### **Development & DevOps**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)

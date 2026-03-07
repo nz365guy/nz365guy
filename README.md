@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Microsoft+AI+Platform+MVP+since+2012;Principal+AI+Strategist+at+Cloverbase;OpenClaw+Orchestration+Expert;Dyslexia+→+AI+Bridge+Builder)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Microsoft+AI+Platform+MVP;Principal+AI+Strategist+at+Cloverbase;OpenClaw+Orchestration+Specialist;Dyslexia+→+AI+Bridge+Builder)
 
 <!-- Visitor Counter - Larger -->
 <p align="center">

@@ -5,18 +5,21 @@
 <!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Microsoft+AI+Platform+MVP+since+2012;Principal+AI+Strategist+at+Cloverbase;OpenClaw+Orchestration+Expert;Dyslexia+→+AI+Bridge+Builder)
 
-<!-- Visitor Counter -->
-![Visitor Count](https://komarev.com/ghpvc/?username=nz365guy&label=Profile%20Views&color=2E8B57&style=flat-square)
-
-<!-- GitHub Stats - Horizontal Layout -->
+<!-- Visitor Counter - Larger -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Stats-1.2K%20Commits%20|%2018%20Repos%20|%204%20Stars-2E8B57?style=for-the-badge" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nz365guy&theme=dark&hide_border=true&background=0d1117&stroke=2E8B57&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57" alt="GitHub Streak" height="28">
+  <img src="https://komarev.com/ghpvc/?username=nz365guy&label=Profile%20Views&color=2E8B57&style=for-the-badge" height="28" alt="Profile Views">
+</p>
+
+<!-- GitHub Stats - Proper Horizontal Layout -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Stats-1.2K%20Commits%20|%2018%20Repos%20|%204%20Stars-2E8B57?style=for-the-badge" height="28" alt="GitHub Stats">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nz365guy&theme=dark&hide_border=true&background=0d1117&stroke=2E8B57&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57" height="28" alt="GitHub Streak">
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Top%20Languages-Python%20|%20JavaScript%20|%20Node.js-2E8B57?style=for-the-badge" alt="Top Languages">
+  <img src="https://img.shields.io/badge/Top%20Languages-Python%20|%20JavaScript%20|%20Node.js-2E8B57?style=for-the-badge" height="28" alt="Top Languages">
 </p>
 
 </div>

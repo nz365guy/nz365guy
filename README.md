@@ -135,7 +135,7 @@
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/Twitter-@nz365guy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nz365guy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20Smith-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marksmithai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20Smith-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nz365guy/)
 [![Website](https://img.shields.io/badge/Website-nz365guy.com-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nz365guy.com)
 
 </div>

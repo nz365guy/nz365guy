@@ -67,19 +67,19 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ### **Agent Orchestration & Home Automation**
-![OpenClaw](https://img.shields.io/badge/OpenClaw-8A2BE2?style=flat-square&logo=github&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-FF6B6B?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-00C853?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG%20(Retrieval‑Augmented%20Generation)-FF9800?style=flat-square)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white)
+<img src="https://img.shields.io/badge/OpenClaw-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="OpenClaw">
+<img src="https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-FF6B6B?style=flat-square" alt="MCP">
+<img src="https://img.shields.io/badge/AI%20Agents-00C853?style=flat-square" alt="AI Agents">
+<img src="https://img.shields.io/badge/RAG%20(Retrieval‑Augmented%20Generation)-FF9800?style=flat-square" alt="RAG">
+<img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white" alt="Home Assistant">
 
 ### **AI Engineering Disciplines**
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-9C27B0?style=flat-square)
-![Context Engineering](https://img.shields.io/badge/Context%20Engineering-2196F3?style=flat-square)
-![Intent Engineering](https://img.shields.io/badge/Intent%20Engineering-4CAF50?style=flat-square)
-![Specification Engineering](https://img.shields.io/badge/Specification%20Engineering-FF9800?style=flat-square)
-![Outcome Engineering](https://img.shields.io/badge/Outcome%20Engineering-F44336?style=flat-square)
-![Design Thinking](https://img.shields.io/badge/Design%20Thinking-673AB7?style=flat-square)
+<img src="https://img.shields.io/badge/Prompt%20Engineering-9C27B0?style=flat-square" alt="Prompt Engineering">
+<img src="https://img.shields.io/badge/Context%20Engineering-2196F3?style=flat-square" alt="Context Engineering">
+<img src="https://img.shields.io/badge/Intent%20Engineering-4CAF50?style=flat-square" alt="Intent Engineering">
+<img src="https://img.shields.io/badge/Specification%20Engineering-FF9800?style=flat-square" alt="Specification Engineering">
+<img src="https://img.shields.io/badge/Outcome%20Engineering-F44336?style=flat-square" alt="Outcome Engineering">
+<img src="https://img.shields.io/badge/Design%20Thinking-673AB7?style=flat-square" alt="Design Thinking">
 
 ## 📈 GitHub Activity
 

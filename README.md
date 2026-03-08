@@ -124,7 +124,7 @@
 
 ![Funky Fish Dashboard](https://raw.githubusercontent.com/nz365guy/nz365guy/main/funkyfish-dashboard.jpg)
 
-*Live dashboard showing real-time competition stats: 398 total entries, 147 anglers, 57 dive entries, 13.1% release rate*
+*Live competition management system with real-time stats dashboard*
 
 
 

@@ -97,7 +97,7 @@
 - **Audience**: Enterprise clients across UK, Europe, US
 - **Links**: 
   [![Amazon Kindle](https://img.shields.io/badge/Amazon%20Kindle-FF9900?style=flat-square&logo=amazon&logoColor=white)](https://www.amazon.com/Microsoft-365-Copilot-Adoption-consultants-ebook)
-  [![Amazon Paperback](https://img.shields.io/badge/Amazon%20Paperback-00A8E1?style=flat-square&logo=amazon&logoColor=white)](https://www.amazon.com/Microsoft-365-Copilot-Adoption-consultants)
+  [![Amazon Paperback](https://img.shields.io/badge/Amazon%20Paperback-00A8E1?style=flat-square&logo=amazon&logoColor=white)](https://amzn.to/4lfBZTP)
   [![Audible](https://img.shields.io/badge/Audible-F8991C?style=flat-square&logo=audible&logoColor=white)](https://www.audible.com/pd/Microsoft-365-Copilot-Adoption-Audiobook/B0G1V1Y39C?source_code=ASSGB149080119000H&share_location=pdp)
 
 ### **AI Strategy Consulting**

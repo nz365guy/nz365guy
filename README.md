@@ -132,10 +132,7 @@
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=nz365guy&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=7)
 
 <!-- WakaTime Stats -->
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1,234%20hrs%2023%20mins-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
-<!--END_SECTION:waka-->
+
 
 </div>
 

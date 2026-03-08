@@ -96,9 +96,9 @@
 - **Impact**: Helping organizations adopt AI responsibly
 - **Audience**: Enterprise clients across UK, Europe, US
 - **Links**: 
-  [![Amazon Kindle](https://img.shields.io/badge/Amazon%20Kindle-FF9900?style=flat-square&logo=amazon&logoColor=white)](https://www.amazon.com/Microsoft-365-Copilot-Adoption-consultants-ebook)
+  [![Amazon Kindle](https://img.shields.io/badge/Amazon%20Kindle-FF9900?style=flat-square&logo=amazon&logoColor=white)](https://amzn.to/40mSgga)
   [![Amazon Paperback](https://img.shields.io/badge/Amazon%20Paperback-00A8E1?style=flat-square&logo=amazon&logoColor=white)](https://amzn.to/4lfBZTP)
-  [![Audible](https://img.shields.io/badge/Audible-F8991C?style=flat-square&logo=audible&logoColor=white)](https://www.audible.com/pd/Microsoft-365-Copilot-Adoption-Audiobook/B0G1V1Y39C?source_code=ASSGB149080119000H&share_location=pdp)
+  [![Audible](https://img.shields.io/badge/Audible-F8991C?style=flat-square&logo=audible&logoColor=white)](https://amzn.to/4swmidg)
 
 ### **AI Strategy Consulting**
 > Boutique Microsoft 365 Copilot consulting via Cloverbase

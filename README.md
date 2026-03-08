@@ -110,6 +110,21 @@
   - <a href="https://www.cloverbase.com/copilot-champions-and-adoption-mentorship" target="_blank" rel="noopener noreferrer">Copilot Champions & Adoption Mentorship</a>
   - <a href="https://www.cloverbase.com/microsoft-ai-innovation-challenge" target="_blank" rel="noopener noreferrer">Microsoft AI Innovation Challenge</a>
 
+### **Funkey Fish Competition System**
+> Complete digital competition management system for Whangārei Heads School
+- **Role**: System Architect & Developer
+- **Impact**: Managing ~700 participants with real-time data capture and automated prize calculation
+- **Technology**: JotForm, Google Sheets, GitHub Pages, Chart.js, Google Apps Script
+- **Key Features**:
+  - Two-form security architecture (prevents prize fraud)
+  - Live dashboard with real-time stats and weather integration
+  - Automated prize calculation with Google Apps Script
+  - Paper backup system for offline resilience
+  - Conservation-focused rules (Catch & Release emphasis)
+- **Links**: 
+  <a href="https://nz365guy.github.io/funkeyfish/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live%20Dashboard-2E8B57?style=flat-square&logo=github&logoColor=white" alt="Live Dashboard"></a>
+  <a href="https://github.com/nz365guy/funkeyfish" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Private%20Repository-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="Private Repository"></a>
+
 
 
 ## 🌍 Connect With Me

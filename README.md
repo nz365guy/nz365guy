@@ -121,9 +121,10 @@
   - Automated prize calculation with Google Apps Script
   - Paper backup system for offline resilience
   - Conservation-focused rules (Catch & Release emphasis)
-- **Links**: 
-  <a href="https://nz365guy.github.io/funkeyfish/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live%20Dashboard-2E8B57?style=flat-square&logo=github&logoColor=white" alt="Live Dashboard"></a>
-  <a href="https://github.com/nz365guy/funkeyfish" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Private%20Repository-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="Private Repository"></a>
+
+![Funky Fish Dashboard](https://raw.githubusercontent.com/nz365guy/nz365guy/main/funkyfish-dashboard.jpg)
+
+*Live dashboard showing real-time competition stats: 398 total entries, 147 anglers, 57 dive entries, 13.1% release rate*
 
 
 

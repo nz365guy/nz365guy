@@ -105,6 +105,11 @@
 - **Clients**: Enterprise organizations globally
 - **Focus**: AI adoption, strategy, implementation
 - **Revenue**: $1M target (mortgage & home build urgency)
+- **Consulting Offerings**:
+  - <a href="https://www.cloverbase.com/ai-leadership-and-governance-blueprint" target="_blank" rel="noopener noreferrer">AI Leadership & Governance Blueprint</a>
+  - <a href="https://www.cloverbase.com/microsoft-365-copilot-adoption-prompting-workshop" target="_blank" rel="noopener noreferrer">Microsoft 365 Copilot Adoption & Prompting Workshop</a>
+  - <a href="https://www.cloverbase.com/copilot-champions-and-adoption-mentorship" target="_blank" rel="noopener noreferrer">Copilot Champions & Adoption Mentorship</a>
+  - <a href="https://www.cloverbase.com/microsoft-ai-innovation-challenge" target="_blank" rel="noopener noreferrer">Microsoft AI Innovation Challenge</a>
 
 ## 📢 Latest Content & Updates
 

@@ -122,13 +122,7 @@
 
 </div>
 
-## 🎯 Current Focus
 
-- **💰 Revenue Target**: $1M for mortgage & home build
-- **🎯 Professional**: Microsoft MVP continuity, client expansion
-- **🚀 Technical**: OpenClaw agent orchestration at scale
-- **📈 Content**: YouTube 100K, LinkedIn growth, podcast breakthrough
-- **🏡 Personal**: Freedom of place, time, and finances
 
 ## 📊 GitHub Metrics
 

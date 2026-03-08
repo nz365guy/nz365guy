@@ -138,16 +138,6 @@ I work alongside **Rook** — my primary orchestration agent that bridges the ga
 
 <div align="center">
 
-### ⚡ **Live System Status**
-![OpenClaw Status](https://img.shields.io/badge/OpenClaw-Online-2E8B57?style=for-the-badge)
-![Azure VM](https://img.shields.io/badge/Azure%20VM-Running-0078D4?style=for-the-badge)
-![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-Active-26A5E4?style=for-the-badge)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-Online-41BDF5?style=for-the-badge)
-![Cost Guard](https://img.shields.io/badge/Cost%20Guard-20.8%25%20of%20%245%20cap-FF6B6B?style=for-the-badge)
-
-*Last updated: <!--LAST_UPDATED-->Sat Mar 07 2026 21:55:00 GMT+1300 (NZDT)<!--/LAST_UPDATED-->*
-
-</div>
 
 ---
 

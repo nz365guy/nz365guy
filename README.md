@@ -110,23 +110,7 @@
   - <a href="https://www.cloverbase.com/copilot-champions-and-adoption-mentorship" target="_blank" rel="noopener noreferrer">Copilot Champions & Adoption Mentorship</a>
   - <a href="https://www.cloverbase.com/microsoft-ai-innovation-challenge" target="_blank" rel="noopener noreferrer">Microsoft AI Innovation Challenge</a>
 
-## 📢 Latest Content & Updates
 
-<!-- Blog Posts -->
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- <a href="https://nz365guy.com" target="_blank" rel="noopener noreferrer">Coming soon: AI agent orchestration patterns</a>
-- <a href="https://nz365guy.com" target="_blank" rel="noopener noreferrer">Microsoft MVP journey: 14 years and counting</a>
-- <a href="https://nz365guy.com" target="_blank" rel="noopener noreferrer">OpenClaw: From Docker to native systemd</a>
-<!-- BLOG-POST-LIST:END -->
-
-<!-- YouTube -->
-### 🎥 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- <a href="https://youtube.com" target="_blank" rel="noopener noreferrer">AI Agent Orchestration with OpenClaw</a>
-- <a href="https://youtube.com" target="_blank" rel="noopener noreferrer">Microsoft Copilot Adoption Strategies</a>
-- <a href="https://youtube.com" target="_blank" rel="noopener noreferrer">Dyslexia to AI: My Journey</a>
-<!-- YOUTUBE:END -->
 
 ## 🌍 Connect With Me
 

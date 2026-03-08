@@ -124,17 +124,7 @@
 
 
 
-## 📊 GitHub Metrics
 
-<div align="center">
-
-<!-- Trophy -->
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=nz365guy&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=7)
-
-<!-- WakaTime Stats -->
-
-
-</div>
 
 ## 🦞 About Rook (My AI Partner)
 

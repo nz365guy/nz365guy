@@ -74,12 +74,12 @@
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white)
 
 ### **AI Engineering Disciplines**
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-9C27B0?style=flat-square&logo=code&logoColor=white)
-![Context Engineering](https://img.shields.io/badge/Context%20Engineering-2196F3?style=flat-square&logo=book&logoColor=white)
-![Intent Engineering](https://img.shields.io/badge/Intent%20Engineering-4CAF50?style=flat-square&logo=target&logoColor=white)
-![Specification Engineering](https://img.shields.io/badge/Specification%20Engineering-FF9800?style=flat-square&logo=file-alt&logoColor=white)
-![Outcome Engineering](https://img.shields.io/badge/Outcome%20Engineering-F44336?style=flat-square&logo=trending-up&logoColor=white)
-![Design Thinking](https://img.shields.io/badge/Design%20Thinking-673AB7?style=flat-square&logo=lightbulb&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-9C27B0?style=flat-square)
+![Context Engineering](https://img.shields.io/badge/Context%20Engineering-2196F3?style=flat-square)
+![Intent Engineering](https://img.shields.io/badge/Intent%20Engineering-4CAF50?style=flat-square)
+![Specification Engineering](https://img.shields.io/badge/Specification%20Engineering-FF9800?style=flat-square)
+![Outcome Engineering](https://img.shields.io/badge/Outcome%20Engineering-F44336?style=flat-square)
+![Design Thinking](https://img.shields.io/badge/Design%20Thinking-673AB7?style=flat-square)
 
 ## 📈 GitHub Activity
 

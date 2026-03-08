@@ -104,7 +104,6 @@
 > Boutique Microsoft 365 Copilot consulting via Cloverbase
 - **Clients**: Enterprise organizations globally
 - **Focus**: AI adoption, strategy, implementation
-- **Revenue**: $1M target (mortgage & home build urgency)
 - **Consulting Offerings**:
   - <a href="https://www.cloverbase.com/ai-leadership-and-governance-blueprint" target="_blank" rel="noopener noreferrer">AI Leadership & Governance Blueprint</a>
   - <a href="https://www.cloverbase.com/microsoft-365-copilot-adoption-prompting-workshop" target="_blank" rel="noopener noreferrer">Microsoft 365 Copilot Adoption & Prompting Workshop</a>

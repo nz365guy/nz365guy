@@ -140,9 +140,6 @@ I work alongside **Rook** - my primary orchestration agent that bridges the gap 
 
 **"Freedom of place, time, and finances. Abundance, not scarcity. Purposeful, not hurried."**
 
-⭐ **Star this profile** if you found it epic!  
-🔗 **Follow** for AI, Microsoft, and agent orchestration content
-
 </div>
 
 

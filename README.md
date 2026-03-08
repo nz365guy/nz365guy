@@ -110,8 +110,8 @@
   - <a href="https://www.cloverbase.com/copilot-champions-and-adoption-mentorship" target="_blank" rel="noopener noreferrer">Copilot Champions & Adoption Mentorship</a>
   - <a href="https://www.cloverbase.com/microsoft-ai-innovation-challenge" target="_blank" rel="noopener noreferrer">Microsoft AI Innovation Challenge</a>
 
-### **Funkey Fish Competition System**
-> Complete digital competition management system for Whangārei Heads School
+### **Fishing Competition System**
+> Complete digital competition management system for running a fishing competition.
 - **Role**: System Architect & Developer
 - **Impact**: Managing ~700 participants with real-time data capture and automated prize calculation
 - **Technology**: JotForm, Google Sheets, GitHub Pages, Chart.js, Google Apps Script

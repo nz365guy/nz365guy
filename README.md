@@ -96,9 +96,9 @@
 - **Impact**: Helping organizations adopt AI responsibly
 - **Audience**: Enterprise clients across UK, Europe, US
 - **Links**: 
-  [![Amazon Kindle](https://img.shields.io/badge/Amazon%20Kindle-FF9900?style=flat-square&logo=amazon&logoColor=white)](https://amzn.to/40mSgga)
-  [![Amazon Paperback](https://img.shields.io/badge/Amazon%20Paperback-00A8E1?style=flat-square&logo=amazon&logoColor=white)](https://amzn.to/4lfBZTP)
-  [![Audible](https://img.shields.io/badge/Audible-F8991C?style=flat-square&logo=audible&logoColor=white)](https://amzn.to/4swmidg)
+  <a href="https://amzn.to/40mSgga" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Amazon%20Kindle-FF9900?style=flat-square&logo=amazon&logoColor=white" alt="Amazon Kindle"></a>
+  <a href="https://amzn.to/4lfBZTP" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Amazon%20Paperback-00A8E1?style=flat-square&logo=amazon&logoColor=white" alt="Amazon Paperback"></a>
+  <a href="https://amzn.to/4swmidg" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Audible-F8991C?style=flat-square&logo=audible&logoColor=white" alt="Audible"></a>
 
 ### **AI Strategy Consulting**
 > Boutique Microsoft 365 Copilot consulting via Cloverbase
@@ -111,26 +111,26 @@
 <!-- Blog Posts -->
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Coming soon: AI agent orchestration patterns](https://nz365guy.com)
-- [Microsoft MVP journey: 14 years and counting](https://nz365guy.com)
-- [OpenClaw: From Docker to native systemd](https://nz365guy.com)
+- <a href="https://nz365guy.com" target="_blank" rel="noopener noreferrer">Coming soon: AI agent orchestration patterns</a>
+- <a href="https://nz365guy.com" target="_blank" rel="noopener noreferrer">Microsoft MVP journey: 14 years and counting</a>
+- <a href="https://nz365guy.com" target="_blank" rel="noopener noreferrer">OpenClaw: From Docker to native systemd</a>
 <!-- BLOG-POST-LIST:END -->
 
 <!-- YouTube -->
 ### 🎥 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [AI Agent Orchestration with OpenClaw](https://youtube.com)
-- [Microsoft Copilot Adoption Strategies](https://youtube.com)
-- [Dyslexia to AI: My Journey](https://youtube.com)
+- <a href="https://youtube.com" target="_blank" rel="noopener noreferrer">AI Agent Orchestration with OpenClaw</a>
+- <a href="https://youtube.com" target="_blank" rel="noopener noreferrer">Microsoft Copilot Adoption Strategies</a>
+- <a href="https://youtube.com" target="_blank" rel="noopener noreferrer">Dyslexia to AI: My Journey</a>
 <!-- YOUTUBE:END -->
 
 ## 🌍 Connect With Me
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-@nz365guy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nz365guy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20Smith-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nz365guy/)
-[![Website](https://img.shields.io/badge/Website-cloverbase.com-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cloverbase.com)
+<a href="https://twitter.com/nz365guy" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-@nz365guy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/nz365guy/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Mark%20Smith-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://cloverbase.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website-cloverbase.com-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
 
 </div>
 

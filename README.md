@@ -138,11 +138,6 @@ I work alongside **Rook** - my primary orchestration agent that bridges the gap 
 
 <div align="center">
 
-
----
-
-<div align="center">
-
 **"Freedom of place, time, and finances. Abundance, not scarcity. Purposeful, not hurried."**
 
 ⭐ **Star this profile** if you found it epic!  

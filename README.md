@@ -122,9 +122,9 @@
   - Paper backup system for offline resilience
   - Conservation-focused rules (Catch & Release emphasis)
 
-![Funky Fish Dashboard](https://raw.githubusercontent.com/nz365guy/nz365guy/main/funkyfish-dashboard.jpg)
+![Funky Fish Live Dashboard](https://raw.githubusercontent.com/nz365guy/nz365guy/main/funkyfish-dashboard.jpg)
 
-*Live competition management system with real-time stats dashboard*
+*Live dashboard showing 398 entries, 147 anglers, 57 dive entries, 13.1% release rate, weather integration, and real-time charts*
 
 
 

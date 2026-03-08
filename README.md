@@ -126,11 +126,11 @@
 
 
 
-## 🦞 About Rook (My AI Partner)
+## ♜ About Rook (My AI Partner)
 
 > *"The castle on the board. Strong, direct, covers a lot of ground in straight lines."*
 
-I work alongside **Rook** — my primary orchestration agent that bridges the gap between ideation and execution. Together we're building toward financial independence and extraordinary outcomes.
+I work alongside **Rook** - my primary orchestration agent that bridges the gap between ideation and execution. Together we're building toward financial independence and extraordinary outcomes.
 
 **Why Rook exists**: Dyslexia meant I couldn't read until 13. AI closes the gap between what my mind conceives and what I can execute.
 

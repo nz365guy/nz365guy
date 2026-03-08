@@ -67,19 +67,19 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ### **Agent Orchestration & Home Automation**
-<span style="display: inline-block; padding: 0.2em 0.6em; margin: 0.2em; border-radius: 3px; background-color: #8A2BE2; color: white; font-size: 0.9em;">OpenClaw</span>
-<span style="display: inline-block; padding: 0.2em 0.6em; margin: 0.2em; border-radius: 3px; background-color: #FF6B6B; color: white; font-size: 0.9em;">MCP (Model Context Protocol)</span>
-<span style="display: inline-block; padding: 0.2em 0.6em; margin: 0.2em; border-radius: 3px; background-color: #00C853; color: white; font-size: 0.9em;">AI Agents</span>
-<span style="display: inline-block; padding: 0.2em 0.6em; margin: 0.2em; border-radius: 3px; background-color: #FF9800; color: white; font-size: 0.9em;">RAG (Retrieval‑Augmented Generation)</span>
-<span style="display: inline-block; padding: 0.2em 0.6em; margin: 0.2em; border-radius: 3px; background-color: #41BDF5; color: white; font-size: 0.9em;">Home Assistant</span>
+![OpenClaw](https://img.shields.io/badge/OpenClaw-8A2BE2?style=flat-square&logo=github&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-FF6B6B?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-00C853?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG%20(Retrieval‑Augmented%20Generation)-FF9800?style=flat-square)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white)
 
 ### **AI Engineering Disciplines**
-<span style="display: inline-block; padding: 0.2em 0.6em; margin: 0.2em; border-radius: 3px; background-color: #9C27B0; color: white; font-size: 0.9em;">Prompt Engineering</span>
-<span style="display: inline-block; padding: 0.2em 0.6em; margin: 0.2em; border-radius: 3px; background-color: #2196F3; color: white; font-size: 0.9em;">Context Engineering</span>
-<span style="display: inline-block; padding: 0.2em 0.6em; margin: 0.2em; border-radius: 3px; background-color: #4CAF50; color: white; font-size: 0.9em;">Intent Engineering</span>
-<span style="display: inline-block; padding: 0.2em 0.6em; margin: 0.2em; border-radius: 3px; background-color: #FF9800; color: white; font-size: 0.9em;">Specification Engineering</span>
-<span style="display: inline-block; padding: 0.2em 0.6em; margin: 0.2em; border-radius: 3px; background-color: #F44336; color: white; font-size: 0.9em;">Outcome Engineering</span>
-<span style="display: inline-block; padding: 0.2em 0.6em; margin: 0.2em; border-radius: 3px; background-color: #673AB7; color: white; font-size: 0.9em;">Design Thinking</span>
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-9C27B0?style=flat-square)
+![Context Engineering](https://img.shields.io/badge/Context%20Engineering-2196F3?style=flat-square)
+![Intent Engineering](https://img.shields.io/badge/Intent%20Engineering-4CAF50?style=flat-square)
+![Specification Engineering](https://img.shields.io/badge/Specification%20Engineering-FF9800?style=flat-square)
+![Outcome Engineering](https://img.shields.io/badge/Outcome%20Engineering-F44336?style=flat-square)
+![Design Thinking](https://img.shields.io/badge/Design%20Thinking-673AB7?style=flat-square)
 
 ## 📈 GitHub Activity
 
